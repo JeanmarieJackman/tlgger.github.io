@@ -1,0 +1,24 @@
+body {
+
+  background: url("cafechatinterior.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  font-family: 'Helvetica', sans-serif;
+}
+header {
+width: 129px;
+height: 143px;
+margin: 20px auto;
+}
+div {
+  width: 500px;
+  height: 300px;
+  margin: 100px auto;
+}
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+body {
+
+  background: url("stripes.png"),  url("background.jpg");
+  background-size: auto, cover;
+  background-repeat: repeat-x, no-repeat;
+  color: #FFF;
+
+  font-family: 'Helvetica', sans-serif;
+}
+hr {
+  width: 50px;
+  margin: 0;
+  border: none;
+  height: 3px;
+  background-color: #905D67;
+}
+p {
+  font-size: 22px;
+}
+div {
+  width: 500px;
+  height: 300px;
+  margin: 200px 0 0 100px;
+}
+
+
+
+
+
+
